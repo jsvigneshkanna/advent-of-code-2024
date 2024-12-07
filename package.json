@@ -9,6 +9,7 @@
   "author": "jsvigneshkanna",
   "license": "ISC",
   "dependencies": {
+    "iter-tools": "^7.5.3",
     "lodash": "^4.17.21"
   }
 }
